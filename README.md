@@ -23,6 +23,7 @@ Location: Iran · Open to remote internships across Europe
 💻 Projects
 
 1. Responsive Website – HTML/CSS
+
 Description: A fully responsive landing page with sleek UI design and mobile-first layout.
 Features include sections like “Sell Your NFTs” and “Super Hot NFTs”.
 GitHub: [https://github.com/SoroushX123/Responsive-Website?tab=readme-ov-file]
