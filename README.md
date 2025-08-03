@@ -62,6 +62,7 @@ a strong foundation in HTML, CSS, and JavaScript—and ongoing development in Re
 have created several practical web applications such as a calculator, quiz platform, and
 responsive to-do lists. These projects are live and available on GitHub, showcasing my
 hands-on experience and commitment to continuous learning.
+
 I am passionate about user-centric design and efficient code, and I am eager to contribute
 positively to your development team. I am available to start immediately and would welcome
 the opportunity to grow professionally within a dynamic and innovative environment.
