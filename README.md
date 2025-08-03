@@ -30,21 +30,25 @@ GitHub: [https://github.com/SoroushX123/Responsive-Website?tab=readme-ov-file]
 Demo: [https://soroushx123.github.io/Responsive-Website/]
 
 2. Simple Calculator
+
 Description: Performs basic arithmetic operations with a clean UI.
 GitHub: [https://github.com/SoroushX123/calculator-app]
 Demo: [https://soroushx123.github.io/calculator-app/]
 
 3. To-Do List (Vanilla JS)
+
 Description: Basic task manager with add/delete/complete features.
 GitHub: [https://github.com/SoroushX123/todo-list-advanced]
 Demo: [https://soroushx123.github.io/todo-list-advanced/]
 
 4. Quiz App
+
 Description: Multiple-choice quiz with scoring system.
 GitHub: [https://github.com/SoroushX123/quiz-app]
 Demo: [https://soroushx123.github.io/quiz-app/]
 
 5.Sign-In Form
+
 Description: Responsive login form with validation.
 GitHub: [https://github.com/SoroushX123/Sign-in]
 Demo: [https://soroushx123.github.io/Sign-in/]
