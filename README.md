@@ -1,8 +1,11 @@
 # portfolio
 
 Full Name: Soroush Iliyat
+
 Email: soroushiliyat@yahoo.com
+
 GitHub: https://github.com/SoroushX123
+
 Location: Iran · Open to remote internships across Europe
 
 ---
