@@ -4,6 +4,8 @@ Full Name: Soroush Iliyat
 
 Email: soroushiliyat@yahoo.com
 
+Gmail: soroushiliyat23@gmail.com
+
 GitHub: https://github.com/SoroushX123
 
 Location: Iran · Open to remote internships across Europe
